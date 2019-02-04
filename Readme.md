@@ -2,7 +2,7 @@
 Udacity Blockchain Nanodegree - Project5
 
 ## Getting Started
-The follwong describes the details of the packages used and the migration info on Rinkeby network. 
+The follwong describes the details of the packages used and the migration info on Rinkeby network
 
 ## Prerequisites - Package used and versions
     * Truffle,                   version:  v5.0.0
